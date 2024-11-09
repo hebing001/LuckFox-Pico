@@ -1,0 +1,3 @@
+/home/book/Desktop/luckfox-pico/opencv-mobile-test/build/CMakeFiles/opencv-mobile-test.dir
+/home/book/Desktop/luckfox-pico/opencv-mobile-test/build/CMakeFiles/edit_cache.dir
+/home/book/Desktop/luckfox-pico/opencv-mobile-test/build/CMakeFiles/rebuild_cache.dir

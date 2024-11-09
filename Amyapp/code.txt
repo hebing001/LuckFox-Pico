@@ -1,0 +1,8 @@
+scp showlcd.c root@192.168.10.134:/root/test
+
+scp -r ~/Desktop/luckfox-pico/Amyapp/luckfox_pico_rkmpi_example/install/luckfox_pico_rtsp_yolov5_demo root@192.168.10.134:/root/test
+
+
+arm-rockchip830-linux-uclibcgnueabihf-g++
+
+
